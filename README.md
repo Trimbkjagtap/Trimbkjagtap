@@ -63,17 +63,6 @@ Predictive modeling using Bayesian regression to forecast deforestation trends
 - **Tech Stack:** Python, PyMC, NumPy, Seaborn
 - **Highlights:** Analyzed multi-country data, demonstrated higher accuracy vs traditional models
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trimbkjagtap&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trimbkjagtap&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trimbkjagtap&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 🏆 Achievements
 
 - 🎯 Reduced AWS operational costs by **20%** through optimization strategies
